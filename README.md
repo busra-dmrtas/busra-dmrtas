@@ -1,5 +1,5 @@
 ## About Me:
-Hello, I'm Büşra. I have a strong interest in frontend development and backend support. Recently, I have been gaining experience in JavaScript, ASP .NET Core MVC, and Unity. Currently, I am actively seeking new job opportunities.
+Hello, I'm Büşra. I have a strong interest in frontend development and backend support. Recently, I have been gaining experience in JavaScript, ASP .NET Core MVC, and Unity. Currently, I am actively seeking new job opportunities.
 
 
 ## Socials:
