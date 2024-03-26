@@ -1,5 +1,5 @@
 ## About Me:
-My name is Büşra Demirtaş, and I am a passionate and motivated junior game developer in the field of Unity game development. I have been working with the Unity platform, and I continue to enhance my skills and knowledge in game development. My enthusiasm for game development and my eagerness to learn drive me to further develop myself in this field
+Hello, I'm Büşra Demirtaş. I graduated from the Computer Programming department. I chose this field because of my desire to create games. After graduating, I continued to improve myself in Unity and C#. Currently, I have started the process of enhancing my skills in the Unreal Engine game engine. I want to expand my abilities with Blueprint. I'm entering the exciting world of gaming.
 
 
 ## Socials:
